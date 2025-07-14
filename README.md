@@ -26,12 +26,10 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento backend e ar
 **Outros:** Programação Orientada a Objetos (POO), Versionamento de Código, Deploy básico
 
 ### Projetos em Destaque:
-* **Projeto-FitMaster** - [Link para seu repositório `Projeto-FitMaster`](https://github.com/mariana-kleina/Projeto-FitMaster)
-    * Um sistema de gerenciamento financeiro desenvolvido em Java para controle de despesas e receitas.
-* **AtividadeFinal** - [Link para seu repositório `AtividadeFinal`](https://github.com/mariana-kleina/AtividadeFinal)
-    * Uma aplicação em Java demonstrando conceitos de [mencionar funcionalidade principal, ex: interface gráfica ou persistência de dados].
-* **AtividadeExtra** - [Link para seu repositório `AtividadeExtra`](https://github.com/mariana-kleina/AtividadeExtra)
-    * Exemplo de [alguma funcionalidade específica] com foco em [tecnologia].
+* **Projeto-FitMaster** - [Link para o repositório `Projeto-FitMaster`](https://github.com/mariana-kleina/Projeto-FitMaster)
+* **AtividadeFinal** - [Link para o repositório `AtividadeFinal`](https://github.com/mariana-kleina/AtividadeFinal)
+* **AtividadeExtra** - [Link para o repositório `AtividadeExtra`](https://github.com/mariana-kleina/AtividadeExtra)
+  
 
 ### Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianamoreirakleina/)
