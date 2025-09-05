@@ -32,13 +32,18 @@ Desenvolvedora de Software em busca da minha primeira oportunidade efetiva. Apai
 
 | Projeto | Descrição |
 |---|---|
-| **Painel de Vagas Curitiba** | Aplicação em React que exibe e filtra vagas de tecnologia, consumindo dados de uma API Mock. |
-| **Sistema de Gerenciamento de Biblioteca** | Sistema em Java para gerenciar uma biblioteca, aplicando conceitos de Programação Orientada a Objetos. |
+| **FitMaster - Gestão de Academias** | Sistema full-stack para gestão de academias. Back-end com **Node.js/Express.js** e front-end com **JavaScript, HTML5 e CSS3**. |
+| **Sistema de Pagamentos com Factory** | Projeto em **Java** que demonstra a aplicação do Design Pattern "Factory Method" para criar diferentes tipos de pagamento de forma desacoplada. |
+| **Painel de Vagas Curitiba** | Aplicação em **React** que exibe e filtra vagas de tecnologia, consumindo dados de uma API Mock. |
+| **Sistema de Gerenciamento de Biblioteca** | Sistema em **Java** para gerenciar uma biblioteca, aplicando conceitos de **Programação Orientada a Objetos**. |
 
+➡️ [Link para o repositório do FitMaster](https://github.com/mariana-kleina/Projeto-FitMaster)
+<br>
+➡️ [Link para o repositório do Sistema de Pagamentos](https://github.com/mariana-kleina/sistema-pagamentos-factory)
+<br>
 ➡️ [Link para o repositório do Painel de Vagas](https://github.com/mariana-kleina/painel-vagas-curitiba)
 <br>
 ➡️ [Link para o repositório do Sistema de Biblioteca](https://github.com/mariana-kleina/sistema-gerenciamento-biblioteca)
-
 
 ---
 
