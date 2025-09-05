@@ -32,13 +32,10 @@ Desenvolvedora de Software em busca da minha primeira oportunidade efetiva. Apai
 |---|---|
 | **Painel de Vagas Curitiba** | Aplicação em React que exibe e filtra vagas de tecnologia, consumindo dados de uma API Mock. |
 | **Sistema de Gerenciamento de Biblioteca** | Sistema em Java para gerenciar uma biblioteca, aplicando conceitos de Programação Orientada a Objetos. |
-| **Projeto-FitMaster** | _(Adicione aqui uma breve descrição do que o projeto faz)_ |
 
 ➡️ [Link para o repositório do Painel de Vagas](https://github.com/mariana-kleina/painel-vagas-curitiba)
 <br>
 ➡️ [Link para o repositório do Sistema de Biblioteca](https://github.com/mariana-kleina/sistema-gerenciamento-biblioteca)
-<br>
-➡️ [Link para o repositório do Projeto-FitMaster](https://github.com/mariana-kleina/Projeto-FitMaster)
 
 
 ---
