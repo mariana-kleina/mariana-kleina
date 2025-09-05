@@ -1,36 +1,49 @@
 # Olá, sou a Mariana Kleina! 👋
 
-Sou uma **Estudante de Engenharia de Software** apaixonada por resolver problemas e criar soluções robustas. Com experiência em **desenvolvimento web, suporte técnico e rotinas administrativas**, estou comprometida com a aprendizagem contínua e a entrega de soluções eficientes.
+Desenvolvedora de Software em busca da minha primeira oportunidade efetiva. Apaixonada por criar soluções de software eficientes e escaláveis, com foco em **Java**, **React** e **Python**.
 
-Atualmente, estou aprimorando minhas habilidades em desenvolvimento backend e arquitetura de software, com foco em **Java, Python e C#**.
+- 🎓 Graduanda em Engenharia de Software pela Universidade Positivo.
+- 💻 Atualmente estagiando na Ibisoft, onde contribuo para o desenvolvimento e suporte de software.
+- 🌱 Buscando constantemente aprimorar minhas habilidades em desenvolvimento full-stack.
 
-### Sobre mim
-- 🎓 **Bacharelado em Engenharia de Software** na Universidade Positivo (2023-2027)
-- 💻 **Estagiária em Suporte Técnico e Auxiliar de Projetos** na Ibisoft (2024 - Atual)
-    - Experiência em suporte a usuários, detecção de erros de programação e configuração de softwares.
-- 🌱 Sempre em busca de novos conhecimentos e desafios, com certificações em diversas áreas, incluindo **Web Development, Python e JavaScript avançado**.
-- 📍 Localizada em Curitiba, Paraná, Brasil.
+---
 
-### Tecnologias e Ferramentas que Domino:
+### 📊 Minhas Estatísticas no GitHub
 
-**Linguagens:**
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.mysql.com/)
+[![Estatísticas de Mariana no GitHub](https://github-readme-stats.vercel.app/api?username=mariana-kleina&show_icons=true&theme=dracula)](https://github.com/mariana-kleina)
 
-**Frameworks e Bibliotecas:** Bootstrap, React (básico), Firebase, APIs REST
-**Bancos de Dados:** MySQL
-**Ferramentas:** Git, GitHub, Visual Studio Code, Eclipse, Trello, Postman
-**Outros:** Programação Orientada a Objetos (POO), Versionamento de Código, Deploy básico
+---
 
-### Projetos em Destaque:
-* **Projeto-FitMaster** - [Link para o repositório `Projeto-FitMaster`](https://github.com/mariana-kleina/Projeto-FitMaster)
-* **AtividadeFinal** - [Link para o repositório `AtividadeFinal`](https://github.com/mariana-kleina/AtividadeFinal)
-* **AtividadeExtra** - [Link para o repositório `AtividadeExtra`](https://github.com/mariana-kleina/AtividadeExtra)
-  
+### 🚀 Tecnologias e Ferramentas
 
-### Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianamoreirakleina/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianakleina84@gmail.com)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📂 Projetos em Destaque
+
+| Projeto | Descrição |
+|---|---|
+| **Painel de Vagas Curitiba** | Aplicação em React que exibe e filtra vagas de tecnologia, consumindo dados de uma API Mock. |
+| **Sistema de Gerenciamento de Biblioteca** | Sistema em Java para gerenciar uma biblioteca, aplicando conceitos de Programação Orientada a Objetos. |
+| **Projeto-FitMaster** | _(Adicione aqui uma breve descrição do que o projeto faz)_ |
+
+➡️ [Link para o repositório do Painel de Vagas](https://github.com/mariana-kleina/painel-vagas-curitiba)
+<br>
+➡️ [Link para o repositório do Sistema de Biblioteca](https://github.com/mariana-kleina/sistema-gerenciamento-biblioteca)
+<br>
+➡️ [Link para o repositório do Projeto-FitMaster](https://github.com/mariana-kleina/Projeto-FitMaster)
+
+
+---
+
+### 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianamoreirakleina/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianakleina84@gmail.com)
