@@ -11,6 +11,8 @@ Desenvolvedora de Software em busca da minha primeira oportunidade efetiva. Apai
 ### 📊 Minhas Estatísticas no GitHub
 
 [![Estatísticas de Mariana no GitHub](https://github-readme-stats.vercel.app/api?username=mariana-kleina&show_icons=true&theme=dracula)](https://github.com/mariana-kleina)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mariana-kleina&theme=dracula)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-kleina&layout=compact&theme=dracula)](https://github.com/mariana-kleina/github-readme-stats)
 
 ---
 
