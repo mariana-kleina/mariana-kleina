@@ -8,11 +8,13 @@ Gosto de unir **boa engenharia**, **design funcional** e **tecnologia com identi
 - 🌱 Em constante evolução no **desenvolvimento Full Stack**
 
 ---
+## ✨ Destaques do Perfil
 
-## 📊 Minhas Estatísticas no GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariana-kleina&show_icons=true&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-kleina&layout=compact&theme=dracula&hide_border=true)
+- 💻 Experiência prática com **desenvolvimento de sistemas web e aplicações em Java**
+- ⚙️ Atuação com **back-end, integrações e lógica de negócios**
+- 🧩 Conhecimento sólido em **POO, APIs REST e versionamento**
+- 📈 Evolução constante através de projetos acadêmicos e pessoais
+- 🧠 Foco em **código limpo, organização e boas práticas**
 
 ---
 
