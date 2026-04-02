@@ -1,64 +1,48 @@
-# ✨ Olá, eu sou a Mariana Kleina! 👩‍💻💗
+# Mariana Kleina
+**Software Engineering Student | Full Stack Developer**
 
-Desenvolvedora de Software apaixonada por criar soluções **eficientes, escaláveis e bem estruturadas**, com foco em **Java**, **React** e **Python**.  
-Gosto de unir **boa engenharia**, **design funcional** e **tecnologia com identidade** ✨
-
-- 🎓 Graduanda em **Engenharia de Software** pela Universidade Positivo  
-- 💼 Estagiária na **Ibisoft**, atuando com suporte e desenvolvimento  
-- 🌱 Em constante evolução no **desenvolvimento Full Stack**
-
----
-## ✨ Destaques do Perfil
-
-- 💻 Experiência prática com **desenvolvimento de sistemas web e aplicações em Java**
-- ⚙️ Atuação com **back-end, integrações e lógica de negócios**
-- 🧩 Conhecimento sólido em **POO, APIs REST e versionamento**
-- 📈 Evolução constante através de projetos acadêmicos e pessoais
-- 🧠 Foco em **código limpo, organização e boas práticas**
+Desenvolvedora de Software focada em criar soluções eficientes, escaláveis e bem estruturadas. Atualmente, aprofundo meus estudos em arquitetura de sistemas e boas práticas de desenvolvimento no ecossistema **Java, Python e React**.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+* **Back-end:** Java (Spring Boot, POO), Python, Node.js.
+* **Front-end:** React.js, JavaScript (ES6+), HTML5, CSS3.
+* **Banco de Dados:** MySQL, PostgreSQL, RESTful APIs.
+* **Versionamento & Workflow:** Git, GitHub, Metodologias Ágeis (Scrum).
 
 ---
 
-## 📂 Projetos em Destaque
+### 🚀 Projetos em Destaque
 
-| Projeto | Descrição |
-|--------|-----------|
-| **FitMaster - Gestão de Academias** | Sistema full-stack para gestão de academias. Back-end com **Node.js/Express.js** e front-end com **JavaScript, HTML5 e CSS3**. |
-| **Sistema de Pagamentos com Factory** | Projeto em **Java** aplicando o Design Pattern **Factory Method** para criação desacoplada de métodos de pagamento. |
-| **Painel de Vagas Curitiba** | Aplicação em **React** para exibição e filtragem de vagas de tecnologia via API Mock. |
-| **Sistema de Gerenciamento de Biblioteca** | Sistema em **Java** utilizando **POO** para controle de acervo, usuários e empréstimos. |
+#### [FitMaster - Gestão de Academias](https://github.com/mariana-kleina/Projeto-FitMaster)
+Aplicação Full Stack para gerenciamento operacional de academias.
+* **Tech Stack:** Node.js, Express, JavaScript.
+* **Destaque:** Implementação de arquitetura cliente-servidor e persistência de dados.
 
-➡️ [FitMaster](https://github.com/mariana-kleina/Projeto-FitMaster)  
-➡️ [Sistema de Pagamentos](https://github.com/mariana-kleina/sistema-pagamentos-factory)  
-➡️ [Painel de Vagas](https://github.com/mariana-kleina/painel-vagas-curitiba)  
-➡️ [Sistema de Biblioteca](https://github.com/mariana-kleina/sistema-gerenciamento-biblioteca)
+#### [Sistema de Pagamentos (Design Patterns)](https://github.com/mariana-kleina/sistema-pagamentos-factory)
+Projeto em Java focado em escalabilidade e padrões de projeto.
+* **Conceito:** Aplicação do **Factory Method** para garantir o desacoplamento na criação de diferentes métodos de pagamento.
 
----
-
-## ✨ Sobre meu estilo de desenvolvimento
-
-Curiosa, organizada e focada em construir sistemas **limpos, funcionais e bem documentados**, sempre buscando evolução técnica e boas práticas.
+#### [Painel de Vagas Curitiba](https://github.com/mariana-kleina/painel-vagas-curitiba)
+Interface em React para visualização e filtragem dinâmica de oportunidades de tecnologia.
+* **Destaque:** Consumo de APIs, manipulação de estados e interface responsiva.
 
 ---
 
-## 📫 Conecte-se comigo
+### 🎓 Formação Acadêmica
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianamoreirakleina/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianakleina84@gmail.com)
+* **Graduação em Engenharia de Software** – Universidade Positivo
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas** – SENAI
+* **Interesses:** Arquitetura de Microsserviços, Design Patterns e Desenvolvimento Full Stack.
 
 ---
 
-<div align="center">
-✨ Obrigada por visitar meu perfil! ✨
-</div>
+### 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianamoreirakleina/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marianakleina84@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mariana-kleina)
+
+---
